@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Jorro"
+            }
+        ],
+        "Description": "Noob attemp at Desktop Design",
+        "Id": "Monochrome-Violet",
+        "License": "GPL 3+",
+        "Name": "Monochrome-Violet",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default"
+}
