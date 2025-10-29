@@ -35,3 +35,4 @@ The base themes that I used where the following:
 - add monochrome icon to:
 
     - zen, wezterm, obsidian
+- Missing: window decorations, fonts for sddm(original installation), colors.colors 
