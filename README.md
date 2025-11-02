@@ -18,6 +18,9 @@ The base themes that I used where the following:
 
 ## Dependencies
 
+  When moving the files to their corresponding folders, you must first apply everything and then add the file `plasma-org.kde.plasma.desktop-appletsrc` again
+  After adding the file you must go edit mode on the desktop and remove the old panels, they should be the bigger ones, I haven't found a way to do this automatically.. 
+
  - [Better blur](https://github.com/taj-ny/kwin-effects-forceblur)
  - [Panel Colorizer](https://store.kde.org/p/2130967)
 
