@@ -22,7 +22,7 @@ When moving the files to their corresponding folders, you must first apply every
   
 After adding the file you must go edit mode on the desktop and remove the old panels, they should be the bigger ones, I haven't found a way to do this automatically.. 
 
-For the sddm screen, you must first install [this](https://github.com/Keyitdev/sddm-astronaut-theme) and then add the theme of this repo under `themes` after installation, Only if you want the font just like the image.
+For the sddm screen, you must first install [sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) and then add the theme of this repo under `themes` after installation, Only if you want the font just like the image.
 Follow the steps there to test out the theme.
 
  - [Better blur](https://github.com/taj-ny/kwin-effects-forceblur)
